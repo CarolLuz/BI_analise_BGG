@@ -1,0 +1,11 @@
+Arquivos a serem utilizados no Power BI:
+	GameTable.parquet
+	bgg_Publisher.csv
+	bgg_Person.csv
+	bgg_Mechanic.csv
+	bgg_GameType.csv
+	bgg_GameFamily.csv
+	bgg_Category.csv
+
+Arquivos a serem ignorados:
+	bgg_GameItem.csv   -> este arquivo foi tratado com o script tratamento_dados.ipynb e seus dados estão no arquivo GameTable.parquet
